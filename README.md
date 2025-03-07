@@ -7,6 +7,7 @@
 
 ## Fedora
 * [Fixed the depracation status of the datetime library](https://github.com/fedora-infra/pagure-exporter/pull/157)
+* [Used REUSE as license](https://github.com/fedora-infra/fedora-messaging/pull/422)
 
 ## Ersilia
 * [Added a positive test for _pubchem_smiled_to_inchikey](https://github.com/ersilia-os/ersilia/pull/1451)
