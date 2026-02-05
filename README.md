@@ -15,3 +15,6 @@
 
 ## Openstack
 * [Added unit test to cover a function in the manila api module](https://review.opendev.org/c/openstack/manila-ui/+/946204)
+* [Updated the cli commands in manage and unmanage shares documentation to stop using deprecated manila cli and start using openstack cli](https://review.opendev.org/c/openstack/manila/+/946180)
+* [Updated the cli commands in manage and unmanage share snapshot](https://review.opendev.org/c/openstack/manila/+/946272)
+* [Added missing uniqueness check for share and group type models](https://review.opendev.org/c/openstack/manila/+/952824)
