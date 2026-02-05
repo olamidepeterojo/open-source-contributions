@@ -9,6 +9,9 @@
 * [Fixed the depracation status of the datetime library](https://github.com/fedora-infra/pagure-exporter/pull/157)
 * [Used REUSE as license](https://github.com/fedora-infra/fedora-messaging/pull/422)
 * [Renamed the existing [CLI] packit validate-config to packit config validate](https://github.com/packit/packit/issues/2437)
+* [Added steps to activate virual environment](https://codeberg.org/fedora/release-schedule-planner/pulls/32)
+* [Implement Release CI/CD Pipeline Triggered by Git Tag](https://codeberg.org/fedora/release-schedule-planner/pulls/30)
+* [Seed and destroy database](https://codeberg.org/fedora/release-schedule-planner/pulls/64)
 
 ## Ersilia
 * [Added a positive test for _pubchem_smiled_to_inchikey](https://github.com/ersilia-os/ersilia/pull/1451)
