@@ -21,3 +21,4 @@
 * [Updated the cli commands in manage and unmanage shares documentation to stop using deprecated manila cli and start using openstack cli](https://review.opendev.org/c/openstack/manila/+/946180)
 * [Updated the cli commands in manage and unmanage share snapshot](https://review.opendev.org/c/openstack/manila/+/946272)
 * [Added missing uniqueness check for share and group type models](https://review.opendev.org/c/openstack/manila/+/952824)
+* [Added missing unit test to cephfs driver for lines 211,453,466. Updating test coverage to 79%](https://review.opendev.org/c/openstack/manila/+/965900)
